@@ -83,7 +83,7 @@ msgstr "_Herramientas"
 
 #: remmina/src/remmina_main.c:884
 msgid "_Help"
-msgstr "Ay_uda"
+msgstr "_Ayuda"
 
 #: remmina/src/remmina_main.c:886
 msgid "Create a new remote desktop file"
